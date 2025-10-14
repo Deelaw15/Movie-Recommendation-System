@@ -1,0 +1,34 @@
+
+# Focused requirements for local work: data cleaning, visualization, and modeling
+# Heavy compiled / recommendation-specific packages (e.g. scikit-surprise, lightfm, implicit)
+# are intentionally excluded here — run those on Colab or a conda environment.
+
+pandas
+numpy
+scipy
+scikit-learn
+statsmodels
+joblib
+
+# Visualization
+matplotlib
+seaborn
+plotly
+plotly-express
+yellowbrick
+
+# NLP (optional, keep lightweight components)
+nltk
+gensim
+
+# Utilities / dev
+requests
+beautifulsoup4
+python-dotenv
+pytest
+jupyterlab
+notebook
+
+# Optional: lightweight app interface for local prototypes
+streamlit
+
