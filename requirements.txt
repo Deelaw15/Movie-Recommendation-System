@@ -13,9 +13,7 @@ joblib
 # Visualization
 matplotlib
 seaborn
-plotly
-plotly-express
-yellowbrick
+
 
 # NLP (optional, keep lightweight components)
 nltk
